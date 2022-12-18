@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-FireContactApp/static/css/main.d549e293.css",
+    "main.js": "/React-FireContactApp/static/js/main.5c778ef4.js",
+    "static/js/787.06ad92cf.chunk.js": "/React-FireContactApp/static/js/787.06ad92cf.chunk.js",
+    "index.html": "/React-FireContactApp/index.html",
+    "main.d549e293.css.map": "/React-FireContactApp/static/css/main.d549e293.css.map",
+    "main.5c778ef4.js.map": "/React-FireContactApp/static/js/main.5c778ef4.js.map",
+    "787.06ad92cf.chunk.js.map": "/React-FireContactApp/static/js/787.06ad92cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d549e293.css",
+    "static/js/main.5c778ef4.js"
+  ]
+}
